@@ -74,8 +74,11 @@ plot(fw2);
 title("Power Spectral Density (|X(f)|^2)");
 ```
 
+
 ## OUTPUT
 <img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/b89c34ea-14ce-49bc-89e2-cc50726fa3ff" />
+
+
 
 
 ## RESULT
